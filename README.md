@@ -42,11 +42,3 @@ The dataset consists of two key sources:
 2. **Item Data**: Provides details about each item's name, category, size, and price.
 
 These datasets were merged to create a unified view of the coffee shop's sales and customer purchasing behavior.
-
-## How to Run the Project
-
-1. Clone this repository to your local machine.
-2. Install the required libraries using:
-
-   ```bash
-   pip install -r requirements.txt
